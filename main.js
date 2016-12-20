@@ -9,5 +9,5 @@
 
 	suma= parseInt(numero1)+parseInt(numero2)+parseInt(numero3);
 	
-	promedio = parseInt(suma/3);
+	promedio = (suma/3);
 	alert(promedio);
