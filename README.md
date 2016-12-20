@@ -17,3 +17,4 @@ Inicio: Promedio de tres números
 - dividir la suma con la cantidad de numeros
 - almacenar el promedio
 
+Fin: promedio-3num
